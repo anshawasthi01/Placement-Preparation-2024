@@ -1,0 +1,58 @@
+Kshitiz Miglani System Design Blog : https://www.linkedin.com/posts/kshitizmiglani_netflix-techblog-activity-7106915969129721857-kqzq?utm_source=share&utm_medium=member_desktop
+
+
+Big-O Cheat Sheet : https://www.bigocheatsheet.com/
+SQL Basics Cheat Sheet : https://learnsql.com/blog/sql-basics-cheat-sheet/
+
+
+1. DSA 
+
+Love Babbar : https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1 (450 Questions)
+Striver : https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/ (191 Questions)
+
+DP Programming: When it comes to DP, practice is key. Begin with basic recursion, then build up to DP concepts. It's the way to truly master it!
+
+Aditya Verma : https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&si=axvE_WwhGPId9k59
+Striver : https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY
+
+Best Leetcode Articles:
+- https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+- https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
+- https://leetcode.com/studyplan/top-interview-150/
+- https://leetcode.com/studyplan/top-sql-50/
+
+
+2. Aptitude
+
+Geeks for Geeks Aptitude section: https://www.geeksforgeeks.org/aptitude-questions-and-answers/
+Coding Ninjas Aptitude section: https://www.codingninjas.com/studio/guided-paths/aptitude-preparation
+Indiabix: https://www.indiabix.com/
+
+
+3. Core subjects
+
+Computer Networks
+- https://www.geeksforgeeks.org/last-minute-notes-computer-network/
+- https://www.interviewbit.com/networking-interview-questions/
+
+DBMS
+- https://www.geeksforgeeks.org/last-minute-notes-dbms/
+- https://www.interviewbit.com/dbms-interview-questions/
+
+OS
+- https://www.geeksforgeeks.org/last-minute-notes-operating-systems/
+- https://www.interviewbit.com/operating-system-interview-questions/
+
+Handwritten Notes:
+- DBMS: https://drive.google.com/file/d/1XGU4dusm9IV2DzBnuKhrrM_o7hUIt7NT/view
+- Networks: https://drive.google.com/file/d/1lkGFmpaa6uesjPUBHBdbgIdICWVC2jqm/view
+- OOPS: https://drive.google.com/file/d/1NXtNY5zQXIUMLcBan-_MpuGN_gnZKTMh/view
+- OS: https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view
+
+
+4. Puzzles
+- https://www.geeksforgeeks.org/puzzles/
+
+5. System Design
+- Gaurav Sen : https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+- https://dev.to/karanpratapsingh/system-design-what-is-system-design-487l
